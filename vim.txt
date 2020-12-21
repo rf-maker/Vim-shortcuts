@@ -1,0 +1,24 @@
+Basic Vim shortcuts
+
+esc - vim model
+i - insert before
+a - insert after
+k - up
+j - down
+l - right
+h - left
+w - move by words (cursor at start)
+e - move by words (cursor at end)
+b - move backwards by words
+ctrl+u - move page up
+ctrl+d - move page down
+dd - this deletes a line
+2dd - delete 2 lines (10dd deletes 10 lines)
+cc - change a line
+D - delete from where your cursor is
+C - change from where your cursor is
+x - remove character
+u - undo
+ctrl+r - redo
+p - paste
+yy - yank (copy)
